@@ -1,0 +1,12 @@
+2023-05-02 15:44:53.523: Hero: Knight attacks Fiend class fiend.Spider Health: 10
+2023-05-02 15:44:53.525: Hero: Knight attacks Fiend class fiend.Spider Health: 10
+2023-05-02 15:44:53.524: Hero: Paladin attacks Fiend class fiend.Spider Health: 14
+2023-05-02 15:44:53.525: Hero: Paladin attacks Fiend class fiend.Spider Health: 8
+2023-05-02 15:44:53.524: Hero: Mage attacks Fiend class fiend.Spider Health: 8
+2023-05-02 15:44:53.525: Hero: Mage attacks Fiend class fiend.Spider Health: 6
+2023-05-02 15:44:53.524: Fiend: class fiend.Spider attacks Hero Mage Health: 21
+2023-05-02 15:44:53.525: Fiend: class fiend.Spider attacks Hero Knight Health: 18
+2023-05-02 15:44:53.524: Fiend: class fiend.Spider attacks Hero Paladin Health: 19
+2023-05-02 15:44:53.525: Fiend: class fiend.Spider attacks Hero Mage Health: 19
+2023-05-02 15:44:53.524: Fiend: class fiend.Spider attacks Hero Paladin Health: 17
+2023-05-02 15:44:53.526: Fiend: class fiend.Spider attacks Hero Knight Health: 16
